@@ -228,7 +228,7 @@ Sales show consistent trends over time.
 ## Dashboard Preview
 
 
-![screenshort]()
+![screenshort](https://github.com/ritik168/Amazon-Fashion-Sales-Insight-Dashboard/blob/main/Screenshot%202025-12-17%20191602.png)
 
 
 ## Project End.

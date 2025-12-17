@@ -1,11 +1,11 @@
 # Amazon-Fashion-Sales-Insight-Dashboard
 
 
-## 📌 PROJECT TITLE
+## 📌 Project Title
 
 Amazon Fashion Sales Insight & Performance Analysis Dashboard
 
-## 🎯 PROJECT OBJECTIVE
+## 🎯 Project Objective
 
 The objective of this project is to analyze Amazon Fashion sales data to understand overall revenue performance, identify top-selling cities and states, evaluate product-level sales and unit trends, track seller contribution, and support data-driven decisions for inventory planning, regional marketing, and sales optimization.
 
